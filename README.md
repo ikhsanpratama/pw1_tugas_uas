@@ -1,6 +1,6 @@
-# pw1_tugas_uas<br/>
+# pw1_tugas_uas__
 Tugas UAS Pemrograman Web 1 
-a. Halaman Registrasi
+a. Halaman Registrasi<br/>
 b. Halaman Login dan Session
 c. Halaman Utama Website yang berisi kumpulan informasi
 d. Halaman Detail dan Pencarian Informasi
